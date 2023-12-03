@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vildan, a passionate individual at the intersection of code and creativity!<br><br>💻 Learning and improving are my daily companions. My current journey involves mastering React to build dynamic and responsive interfaces. Each line of code is a step forward in my quest for excellence.<br><br>🌐 Beyond the screen, you'll find me exploring the world.<br><br> I enjoy the simplicity of walking, getting lost in the worlds of books, and indulging in the art of cinematic storytelling. Cooking is not just a necessity but a creative outlet, and I occasionally find solace in playing ukulele.<br><br>📫 Excited about frontend development, React, or just want to connect? Reach out at vcetin1356@gmail.com or find me on https://www.linkedin.com/in/vildanbeyza-cetin/—let's collaborate and build something amazing together!<br><br>Happy coding! 🚀<br><br><br>
+👋 Hi, I'm Vildan, a passionate individual at the intersection of code and creativity!<br><br>💻 Learning and improving are my daily companions. My current journey involves mastering React to build dynamic and responsive interfaces. Each line of code is a step forward in my quest for excellence.<br><br>🌐 Beyond the screen, you'll find me exploring the world.<br><br> I enjoy the simplicity of walking, getting lost in the worlds of books, and indulging in the art of cinematic storytelling. Cooking is not just a necessity but a creative outlet, and I occasionally find solace in playing ukulele.<br><br>📫 Excited about frontend development, React, or just want to connect? Reach out at [email address](vcetin1356@gmail.com) or find me on [linkedin account](https://www.linkedin.com/in/vildanbeyza-cetin/) -let's collaborate and build something amazing together!<br><br>Happy coding! 🚀<br><br><br>
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vildancetin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vildancetin&icon=3&color=3)](https://visitcount.itsvg.in)
